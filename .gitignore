@@ -1,0 +1,8 @@
+# session journals written by the tool
+rit_logs/
+# local secrets
+.env
+*.key
+__pycache__/
+*.pyc
+.vscode/
