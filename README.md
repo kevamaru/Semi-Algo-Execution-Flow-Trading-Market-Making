@@ -270,6 +270,6 @@ python scripts/make_charts.py     # rebuilds figures/ from data/
 
 ---
 
-*Kevin Amaru — M1 Probability & Finance, Sorbonne Université. Built as practice for equity derivatives trading, where hedging a client's risk without paying away the margin in execution is the same problem at a larger scale.*
+*Kevin Amaru — Master Probability & Finance, Sorbonne Université. Built as practice for equity derivatives trading, where hedging a client's risk without paying away the margin in execution is the same problem at a larger scale.*
 
 *RIT and Rotman Interactive Trader belong to the Rotman School of Management. This is an independent educational project.*
